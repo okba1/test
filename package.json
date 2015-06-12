@@ -1,0 +1,12 @@
+{
+  "name": "gulp-build",
+  "version": "0.0.1",
+  "description": "the build process of my website with gulp.js",
+  "main": "gulpfile.js",
+  "author": "okba",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "require-dir": "^0.1.0"
+  }
+}
